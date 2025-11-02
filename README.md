@@ -1,7 +1,7 @@
 <!-- README for furoyal7 -->
 <div align="center">
 
-# 👋 Hi, I'm **Fuad Kedir** (aka [furoyal7](https://github.com/furoyal7))  
+# 👋 Hi, I'm **Fuad Kedir** ( [furoyal7](https://github.com/furoyal7))  
 ### 💻 Full Stack Developer | Game Creator | Tech Innovator
 
 </div>
