@@ -12,7 +12,7 @@
 - 🔭 Currently working on **web apps, games, and e-commerce systems**
 - 🌱 Exploring **React.js, Node.js, and advanced Python programming**
 - 💬 Ask me about **JavaScript, React, Python, and C++**
-- 📫 Reach me at: **furoyal7@gmail.com**
+- 📫 Reach me at: **fuadkedir1348@gmail.com**
 - ⚡ Fun Fact: I love creating interactive projects that combine creativity and logic!
 
 ---
