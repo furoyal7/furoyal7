@@ -1,33 +1,26 @@
-<!-- ⚡ ADVANCED GITHUB PROFILE README FOR FUROYAL7 -->
+<!-- ⚡ Professional GitHub Profile README for furoyal7 -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Fuad+Kedir!;💻+Full+Stack+Developer;🎮+Game+Creator;🚀+Tech+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=👋+Hi,+I%27m+Fuad+Kedir!;💻+Full+Stack+Developer;🎮+Game+Creator;🚀+Tech+Innovator)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-- 🔭 Currently working on **web apps, games, and e-commerce systems**  
-- 🌱 Exploring **React.js**, **Node.js**, and **advanced Python programming**  
-- 💬 Ask me about **JavaScript**, **React**, **Python**, and **C++**  
-- 📫 Reach me at: **fuadkedir1348@gmail.com**  
-- ⚡ Fun Fact: I love creating interactive projects that combine creativity and logic!  
+I’m **Fuad “Furoyal7” Kedir**, a passionate Full-Stack Developer and Game Creator. I love combining logic, creativity, and technology to build impactful projects — from web apps to browser games.
 
----
-
-## 🎯 Learning & Goals  
-
-- 🚀 Mastering **Next.js** and **server-side rendering**  
-- 🧩 Creating **custom React Hooks** and reusable UI components  
-- 🎮 Enhancing **game development** logic using JS & Canvas  
-- ☁️ Building efficient **Node.js APIs** with Express and MongoDB  
-- 🤖 Exploring **AI integrations** and **Python automation**  
+- 🔭 Currently focused on **web applications, e-commerce systems, and browser-based games**  
+- 🌱 Learning **Next.js**, **React Hooks**, and server-side Python  
+- 💬 Ask me about **JavaScript**, **React**, **Node.js**, **Python**, and **C++**  
+- 📫 Contact: **fuadkedir1348@gmail.com**  
+- ⚡ Fun Fact: I’m always coding in my head — even when I’m away from my keyboard
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,cpp,mongodb,git,github,vscode,figma,postman" alt="Tech Stack Icons" />
@@ -35,7 +28,7 @@
 
 ---
 
-## 🧩 Tools I Use Daily  
+## 🔧 Tools I Use Daily
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,chrome,git,postman,windows,discord" height="45" alt="Tools I use" />
@@ -43,118 +36,81 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=furoyal7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=furoyal7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 💡 Most Used Languages  
+## 💡 My Top Languages
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furoyal7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furoyal7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Profile Trophy  
+## 🔎 Featured Projects
+
+Here are some of the projects I’m most proud of:
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[E-Commerce App](https://github.com/furoyal7/ecommerce-app)** | A full-featured e-commerce platform with cart, checkout, and admin dashboard | React, Node.js, Express, MongoDB |
+| **[Portfolio Website](https://github.com/furoyal7/portfolio)** | My personal website, showcasing my work, skills, and contact information | HTML, CSS, JavaScript |
+| **[Alien Invasion Game](https://github.com/furoyal7/alien-invasion)** | A browser-based shooter game with power-ups and scoring | HTML, CSS, JavaScript |
+| **[Global Weather App](https://github.com/furoyal7/weather-app)** | Real-time global weather app using a public API | JavaScript, HTML, CSS, OpenWeather API |
+| **[Number Puzzle](https://github.com/furoyal7/number-puzzle)** | Responsive puzzle game based on a 5×5 grid | React.js |
+| **[Algorithms & C++ / Python](https://github.com/furoyal7/python-cpp-projects)** | My algorithm experiments and coding challenges | Python, C++ |
+
+---
+
+## 🏆 Achievements
+
+- ⭐ **GitHub Stars:** Check out some of the repositories that have received attention  
+- 🔁 **Code Commit Streaks:** Consistently contributing across multiple projects  
+- 🎖️ **Badges & Trophies:** GitHub Profile Trophy (or similar) to highlight milestones
+
+---
+
+## 🎯 What I’m Working On
+
+- Building a **Next.js SaaS app** for small businesses  
+- Designing **custom React hooks** and a component library  
+- Developing a **multiplayer browser game**  
+- Automating workflows using **Python & AI**  
+
+---
+
+## 💬 Let’s Connect
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furoyal7&theme=onestar&no-frame=true&row=1&margin-w=15" alt="GitHub Trophy" />
+  <a href="https://github.com/furoyal7" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" /></a>
+  <a href="mailto:fuadkedir1348@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/fuad-kedir" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-## ✨ Featured Projects  
-
-| 🌟 Project | 📝 Description | ⚙️ Tech |
-|-------------|----------------|----------|
-| [![E-Commerce App](https://img.shields.io/badge/-🛍️_E--Commerce_App-blueviolet)](https://github.com/furoyal7/ecommerce-app) | Full-featured e-commerce web app with modern UI & cart system | React, Node.js, MongoDB |
-| [![Portfolio Website](https://img.shields.io/badge/-🌐_Portfolio_Website-ff69b4)](https://github.com/furoyal7/portfolio) | Personal portfolio showcasing my projects & skills | HTML, CSS, JS |
-| [![Alien Invasion Game](https://img.shields.io/badge/-🎮_Alien_Invasion_Game-brightgreen)](https://github.com/furoyal7/alien-invasion) | Action shooter browser game with upgrades & power-ups | HTML, CSS, JS |
-| [![Global Weather App](https://img.shields.io/badge/-☁️_Global_Weather_App-blue)](https://github.com/furoyal7/weather-app) | Beautiful weather app with live data | HTML, CSS, JS |
-| [![Number Puzzle](https://img.shields.io/badge/-🧩_Number_Puzzle-orange)](https://github.com/furoyal7/number-puzzle) | Responsive 5×5 number puzzle game | React.js |
-| [![Python & C++ Projects](https://img.shields.io/badge/-⚙️_Python_&_C++_Projects-red)](https://github.com/furoyal7/python-cpp-projects) | Algorithms & experiments using Python and C++ | Python, C++ |
-
----
-
-## 🏅 Achievements & Highlights  
-
-![Followers](https://img.shields.io/github/followers/furoyal7?style=social)
-![Stars](https://img.shields.io/github/stars/furoyal7?style=social)
-![Repos](https://badgen.net/badge/Public%20Repos/20/blue)
-![Streak](https://badgen.net/badge/Coding%20Streak/25%20days/orange)
-
----
-
-## 📈 Contribution Summary  
-
-| **Metric** | **Value** |
-|:------------|:----------|
-| **Total Contributions** | ![Contributions](https://komarev.com/ghpvc/?username=furoyal7&color=blueviolet&style=flat-square&label=Total+Views) |
-| **Current Streak** | 🔥 **25 days** |
-| **Longest Streak** | ⏱️ **25 days** |
-
----
-
-## 🎉 Fun Facts About Me  
-
-- 💡 I love mixing creativity and logic to make interactive apps  
-- 🎮 Big fan of shooter & puzzle games  
-- 🧠 Debugging is my superpower (especially at 2 AM 😄)  
-- ☕ Coffee + Code = Perfect combo  
-- 🌍 Always learning, always building  
-
----
-
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://github.com/furoyal7" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/></a>
-  <a href="mailto:fuadkedir1348@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/></a>
-</p>
-
----
-
-## 📅 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furoyal7&theme=tokyo-night&bg_color=0d1117&color=70A5FD&line=38bdae&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/furoyal7/furoyal7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🧭 GitHub Summary Cards  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furoyal7&theme=tokyonight" />
-</p>
-
----
-
-## 💬 Developer Quote  
+## 🧭 Personal Motto
 
 > “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*  
+>  
+> **Code. Learn. Build. Repeat.**
 
 ---
 
-<div align="center">
+## ⚠️ Accessibility & Best Practices
 
-💬 *“Code. Learn. Build. Repeat.”*  
-⭐ *Thanks for visiting my profile!*  
-<br>
-🧡 *If you like my projects, don’t forget to star ⭐ my repositories!*  
+- All images include `alt` text for accessibility. :contentReference[oaicite:0]{index=0}  
+- Organized with clear headings and sections for readability.  
+- Uses badges, icons, and stats to visually showcase skills. :contentReference[oaicite:1]{index=1}  
+- Focused on quality projects and well-documented repos. :contentReference[oaicite:2]{index=2}  
 
-</div>
+---
+
+**Thank you for visiting my profile — I’m always open to collaboration or new challenges!**  
+
