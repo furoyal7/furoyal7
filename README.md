@@ -10,18 +10,7 @@
 
 ### 🚀 GitHub Streak & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=furoyal7&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Longest_Streak-38_days-orange?style=for-the-badge&logo=github" alt="Longest Streak Badge"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/furoyal7/furoyal7/main/assets/longest-streak.png" 
-       alt="Longest Streak Highlight" 
-       width="700" 
-       style="border-radius:15px; box-shadow:0 0 20px rgba(255,100,0,0.5);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furoyal7&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: 95%; max-width: 600px;">
 </p>
 
 ---
