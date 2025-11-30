@@ -1,6 +1,6 @@
 <!-- Profile Views -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=furoyal7&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Fuad</h1>
@@ -10,17 +10,29 @@
 
 ### 🚀 GitHub Streak & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=furoyal7&theme=transparent&hide_border=true" />
 </p>
 
-**🔥 Longest Streak:** 23 days
+<p align="center">
+  <img src="https://img.shields.io/badge/Longest_Streak-38_days-orange?style=for-the-badge&logo=github" alt="Longest Streak Badge"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/furoyal7/furoyal7/main/assets/longest-streak.png" 
+       alt="Longest Streak Highlight" 
+       width="700" 
+       style="border-radius:15px; box-shadow:0 0 20px rgba(255,100,0,0.5);" />
+</p>
 
 ---
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" 
+       src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
+       
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=furoyal7&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -51,7 +63,7 @@
 
 ### 📫 Contact
 📧 **fuadkedr@email.com**  
-💼 **https://linkedin.com/in/YOUR_USERNAME**  
+💼 **https://linkedin.com/in/furoyal7**  
 🌐 **https://yourwebsite.com**
 
 ---
@@ -71,4 +83,3 @@ If you enjoy my work or find something useful, consider leaving a **star** ⭐ o
 Your support motivates me to build more awesome projects!
 
 ---
-
