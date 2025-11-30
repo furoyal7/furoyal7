@@ -50,7 +50,7 @@
 ---
 
 ### 📫 Contact
-📧 **your@email.com**  
+📧 **fuadkedr@email.com**  
 💼 **https://linkedin.com/in/YOUR_USERNAME**  
 🌐 **https://yourwebsite.com**
 
