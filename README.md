@@ -15,17 +15,6 @@
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img height="170" 
-       src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
-       
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=furoyal7&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ### 🧠 About Me
 - 💡 Passionate about creating **efficient, scalable, and user-focused applications**  
 - 💻 Currently working with **React, JavaScript, and Backend Development**  
