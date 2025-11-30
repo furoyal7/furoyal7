@@ -4,66 +4,71 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Fuad</h1>
-<h3 align="center">Software Developer | Full-Stack Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Developer • Full-Stack Enthusiast • Problem Solver</h3>
 
 ---
 
-### 🔥 GitHub Streak & Activity
+### 🚀 GitHub Streak & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
 </p>
 
 **🔥 Longest Streak:** 23 days
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- 💡 Passionate about building **efficient, scalable, and user-friendly applications**  
-- 💻 Currently focused on **React, JavaScript, and Backend Development**  
-- 🚀 Constantly improving my skills and exploring new technologies  
-- 🎯 Goal: Become a **high-impact full-stack engineer** capable of building production-grade systems  
+- 💡 Passionate about creating **efficient, scalable, and user-focused applications**  
+- 💻 Currently working with **React, JavaScript, and Backend Development**  
+- 🔍 Exploring advanced concepts in **full-stack architecture & system design**  
+- 🎯 Goal: Become a **high-impact full-stack engineer** capable of delivering production-ready solutions  
 
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend:**  
-`React` · `JavaScript` · `HTML` · `CSS` · `TailwindCSS`
+#### **Frontend**
+`React` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS`
 
-**Backend:**  
+#### **Backend**
 `Node.js` · `Express` · `MongoDB`
 
-**Programming Languages:**  
+#### **Programming Languages**
 `C++` · `JavaScript` · `Python`
 
-**Tools & Platforms:**  
+#### **Tools & Platforms**
 `Git` · `GitHub` · `VS Code` · `Figma` · `Vite`
 
 ---
 
 ### 📫 Contact
-📧 Email: **your@email.com**  
-💼 LinkedIn: **https://linkedin.com/in/YOUR_USERNAME**  
-🌐 Portfolio: **https://yourwebsite.com**
+📧 **your@email.com**  
+💼 **https://linkedin.com/in/YOUR_USERNAME**  
+🌐 **https://yourwebsite.com**
 
 ---
 
-### 📁 Highlight Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| **E-Commerce App** | Full-stack store with authentication & payments | React · Node.js |
-| **Portfolio Website** | Personal brand website with animations & dark mode | React · Tailwind |
-| **Todo App** | Fast CRUD app with localStorage | JavaScript |
+### 📁 Highlighted Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **E-Commerce Platform** | Full-stack store with authentication, product management & payments | React · Node.js |
+| **Portfolio Website** | Personal portfolio with animations, dark mode & responsive design | React · Tailwind |
+| **Todo App** | Fast CRUD application with localStorage persistence | JavaScript |
 
 ---
 
-> ⭐ If you find my work useful, consider giving a **star** on my repositories!
+### ⭐ Support
+If you enjoy my work or find something useful, consider leaving a **star** ⭐ on the repository.  
+Your support motivates me to build more awesome projects!
+
+---
 
