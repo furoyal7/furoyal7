@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Fuad</h1>
-<h3 align="center">Software Developer • Full-Stack Enthusiast • Problem  Solver</h3>
+<h3 align="center">Software Developer • Full-Stack Enthusiast • Problem Solver</h3>
 
 ---
 
