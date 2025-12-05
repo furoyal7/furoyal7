@@ -45,11 +45,11 @@
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-  <a href="mailto:fuadkedr@email.com">
+  <a href="mailto:fuadkedry@email.com">
     <img src="https://img.shields.io/badge/Email-d9534f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://t.me/yourtelegram">
+  <a href="https://t.me/fu_royal">
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
