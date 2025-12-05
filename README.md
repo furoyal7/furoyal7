@@ -38,11 +38,27 @@
 `Git` · `GitHub` · `VS Code` · `Figma` · `Vite`
 
 ---
+### 💬 contact!
 
-### 📫 Contact
-📧 **fuadkedr@email.com**  
-💼 **https://linkedin.com/in/furoyal7**  
-🌐 **https://yourwebsite.com**
+<p align="center">
+  <a href="https://github.com/furoyal7">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="mailto:fuadkedr@email.com">
+    <img src="https://img.shields.io/badge/Email-d9534f?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://t.me/yourtelegram">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/furoyal7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">💡 "Code. Learn. Repeat. Every line makes you better."</p>
 
 ---
 
