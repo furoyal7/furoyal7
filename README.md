@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 GitHub Streak & Activity
+## 🚀 GitHub Streak & Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=furoyal7&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: 95%; max-width: 600px;">
 </p>
