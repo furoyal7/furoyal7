@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/fuad-royal7">
+  <a href="https://in/fuad-royal7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
