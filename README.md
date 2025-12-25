@@ -16,7 +16,7 @@
 ---
 
 ### 🧠 About Me
-- 💡 Passionate about creating **efficient, scalable, and user-focused applications**  
+- 💡 Passionate about creating **efficient, scalable, and user-focused  applications**  
 - 💻 Currently working with **React, JavaScript, and Backend Development**  
 - 🔍 Exploring advanced concepts in **full-stack architecture & system design**  
 - 🎯 Goal: Become a **high-impact full-stack engineer** capable of delivering  production-ready solutions  
