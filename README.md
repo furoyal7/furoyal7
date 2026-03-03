@@ -1,79 +1,126 @@
 <!-- Profile Views -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=furoyal7&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=furoyal7&label=Profile+Views&color=111111&style=flat" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Fuad</h1>
-<h3 align="center">Software Developer •  Full-Stack Enthusiast • Problem  Solver</h3>
-
----
-
-### 🚀 GitHub Streak & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furoyal7&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: 95%; max-width: 600px;">
-</p>
-
----
-
-### 🧠 About Me
-- 💡 Passionate about creating **efficient, scalable, and user-focused  applications**  
-- 💻 Currently working with **React, JavaScript, and Backend Development**  
-- 🔍 Exploring advanced concepts in **full-stack architecture & system design**  
-- 🎯 Goal: Become a **high-impact full-stack engineer** capable of delivering  production-ready solutions  
-
----
-
-### 🛠 Tech Stack
-
-#### **Frontend**
-`React` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS`
-
-#### **Backend**
-`Node.js` · `Express` · `MongoDB`
-
-#### **Programming Languages**
-`C++` · `JavaScript` · `Python`
-
-#### **Tools & Platforms**
-`Git` · `GitHub` · `VS Code` · `Figma` · `Vite`
-
----
-### 💬 contact!
+<h1 align="center">Fuad Kedir</h1>
+<h3 align="center">Full-Stack Developer • System Builder • Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/furoyal7">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="mailto:fuadkedry@email.com">
-    <img src="https://img.shields.io/badge/Email-d9534f?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://t.me/fu_royal">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/fuad-royal7">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/furoyal7?label=Followers&style=social" />
   </a>
 </p>
 
-<p align="center">💡 "Code. Learn. Repeat. Every line makes you better."</p>
+---
+
+## 🚀 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furoyal7&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furoyal7&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</p>
 
 ---
 
-### 📁 Highlighted Projects
+## 🧠 About Me
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **E-Commerce Platform** | Full-stack store with authentication, product management & payments | React · Node.js |
-| **Portfolio Website** | Personal portfolio with animations, dark mode & responsive design | React · Tailwind |
-| **Todo App** | Fast CRUD application with localStorage persistence | JavaScript |
+- 💡 I build **scalable, production-ready web applications**
+- 🧩 Strong focus on **clean architecture & maintainable code**
+- ⚡ Passionate about **performance optimization & modern UI/UX**
+- 🔍 Currently exploring **System Design & Advanced Backend Patterns**
+- 🎯 Mission: Become a **high-impact full-stack engineer**
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
+</p>
+
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
+
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
 ---
 
-### ⭐ Support
-If you enjoy my work or find something useful, consider leaving a **star** ⭐ on the repository.  
-Your support motivates me to build more awesome projects!
+## 📁 Featured Projects
+
+### 🛒 E-Commerce Platform
+Full-stack online store with:
+- Secure Authentication
+- Product & Admin Dashboard
+- Payment Integration
+- RESTful API Architecture  
+**Stack:** React · Node.js · MongoDB
 
 ---
+
+### 🌐 Portfolio Website
+Modern developer portfolio featuring:
+- Smooth animations
+- Dark Mode
+- Responsive design
+- Performance optimization  
+**Stack:** React · Tailwind CSS · Vite
+
+---
+
+### ✅ Todo App
+Minimal & fast CRUD application:
+- LocalStorage persistence
+- Clean UI
+- Optimized state handling  
+**Stack:** JavaScript
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/furoyal7">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:fuadkedry@email.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/fu_royal">
+    <img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/fuad-royal7">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>"Code. Build. Scale. Repeat."</strong>
+</p>
+
+---
+
+## ⭐ Support
+
+If you find my work helpful, consider giving a ⭐ to the repository.  
+It motivates me to build bigger and better systems.
