@@ -1,112 +1,116 @@
-<!-- ================= IDENTITY ================= -->
-
-<h1 align="center">Fuad Kedir</h1>
+<!-- ================= HEADER (SUBTLE ANIMATION) ================= -->
 
 <p align="center">
-Engineer focused on building scalable systems, not just applications
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0b0b,100:1a1a1a&text=FUAD%20KEDIR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20•%20Scalable%20Architecture%20•%20Performance&descAlignY=60&descAlign=50"/>
 </p>
 
+<!-- ================= TYPING (CONTROLLED, NOT NOISY) ================= -->
+
 <p align="center">
-Distributed Systems • Performance Engineering • System Design • UI/UX Logic
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3500&pause=1200&color=9AE6FF&center=true&vCenter=true&width=600&lines=Designing+Systems+That+Scale;Engineering+for+Performance+and+Reliability;Turning+Complex+Problems+into+Structured+Solutions"/>
 </p>
 
 ---
 
 ## ⚙️ What I Do
 
-I design and build systems that are meant to scale, remain maintainable, and perform under real-world constraints.
+I design and build systems that scale, remain maintainable, and perform under real-world constraints.
 
-I don't optimize for trends or tools — I optimize for:
+I optimize for:
 - clarity of architecture  
 - predictable system behavior  
 - long-term maintainability  
 - performance under load  
 
-Most software fails not because it doesn’t work, but because it doesn’t scale, breaks under complexity, or becomes impossible to maintain.
-
-That’s the layer I focus on.
-
 ---
 
 ## 🧠 Engineering Approach
 
-- Think in **systems**, not pages or endpoints  
-- Treat frontend as **state + logic architecture**, not just UI  
-- Design backend for **consistency, not just functionality**  
-- Prefer **simple, composable solutions** over clever complexity  
-- Build with the assumption that the system **will grow**  
+- Systems over features  
+- Architecture over shortcuts  
+- Simplicity over cleverness  
+- Performance as a requirement, not a bonus  
 
 ---
 
-## 🚀 Impact (Engineering-Level)
+## 🚀 Impact
 
-- Structured full-stack applications with clear separation of concerns, reducing system complexity  
-- Improved performance through rendering optimization and efficient data flow  
-- Designed backend systems that are easier to extend and maintain over time  
-- Built reusable UI architectures to eliminate duplication and enforce consistency  
-- Reduced failure points by enforcing predictable API patterns and validation  
+- Structured full-stack systems with reduced complexity  
+- Improved performance via optimized rendering and data flow  
+- Built reusable UI systems for consistency and speed  
+- Designed backend architecture for scalability and maintainability  
 
 ---
 
-## 🏗 Selected Systems
+## 🏗 Selected Work
 
-### 🔹 Full-Stack Application Architecture
-- Designed end-to-end system (frontend + backend + data layer)  
-- Focused on scalability, modularity, and clean structure  
-- Eliminated tight coupling between components  
+### 🔹 Scalable Application System
+- Full-stack architecture (React + Node.js)  
+- Clean separation of concerns  
+- Performance-focused structure  
 
-### 🔹 UI System Architecture
-- Built component-driven UI with reusable logic patterns  
-- Optimized rendering and state flow  
-- Shifted UI from static pages → structured system  
+### 🔹 UI Architecture System
+- Component-driven design  
+- Optimized rendering behavior  
+- Reusable logic patterns  
 
 ---
 
 ## ⚙️ Technical Depth
 
-### Core Systems Work
+### Core
 - JavaScript / TypeScript  
-- React (state architecture, rendering behavior)  
-- Node.js & Express (API design, middleware flow)  
-- MongoDB (data modeling, query efficiency)
+- React (state & rendering architecture)  
+- Node.js / Express (API systems)  
+- MongoDB (data modeling)
 
-### Engineering Focus
-- System Design & Scalability  
-- Performance Optimization (frontend + backend)  
-- API Structure & Data Flow Control  
+### Focus
+- System Design  
+- Performance Optimization  
+- API Design & Data Flow  
 - Maintainable Architecture  
 
-### Currently Expanding Into
+### Scaling Into
 - Distributed Systems  
-- Cloud Infrastructure & Deployment  
-- Caching Strategies & Load Handling  
-- System Reliability Patterns  
+- Cloud & DevOps  
+- Caching & Load Strategies  
 
 ---
 
-## 🧩 Evolution as an Engineer
-
-**Stage 1 — Foundations**
-- Learned how to build interfaces and functionality  
-
-**Stage 2 — Full-Stack Thinking**
-- Understood how frontend, backend, and data interact  
-
-**Stage 3 — System Thinking (Current)**
-- Designing for scalability, performance, and maintainability  
-- Making architectural decisions, not just writing code  
-
----
-
-## 📊 Activity
+## 📊 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furoyal7&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&theme=transparent&hide_border=true&title_color=9AE6FF&icon_color=9AE6FF&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furoyal7&theme=transparent&hide_border=true&ring=9AE6FF&fire=9AE6FF&currStreakLabel=9AE6FF" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furoyal7&theme=react-dark&hide_border=true&color=9AE6FF&line=9AE6FF&point=ffffff" width="95%" />
+</p>
+
+---
+
+## 🧩 Engineering Evolution
+
+**Foundation → Interface Engineering**
+- Structured UI systems  
+- Component-driven development  
+
+**Full-Stack Systems**
+- API design & backend structure  
+- Data modeling  
+
+**System-Level Thinking (Current)**
+- Scalability & performance  
+- Architecture decisions  
+- Reliability  
 
 ---
 
 ## 🤝 Contact
 
-- GitHub: https://github.com/furoyal7
+<p align="center">
+  <a href="https://github.com/furoyal7">
+    <img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
