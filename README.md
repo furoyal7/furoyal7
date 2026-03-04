@@ -1,28 +1,41 @@
-````md
-<!-- ================= HERO BANNER ================= -->
+
+<!-- ================= ULTRA HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0a0a0a,50:111111,100:1f1f1f&text=FUAD%20KEDIR&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20System%20Builder&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:000000,50:0a0a0a,100:111111&text=FUAD%20KEDIR&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20System%20Architect&descAlignY=60"/>
 </p>
 
-<!-- ================= TYPING ================= -->
+<!-- ================= ELITE TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Systems;Clean+Code+Mindset;Performance+Driven;Backend+%2B+Frontend+Mastery"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+Scalable+Systems;Engineering+Over+Hype;Clean+Architecture+First;Build+→+Optimize+→+Scale"/>
 </p>
 
 ---
 
-# ⚡ ENGINEERING PROFILE
+# ⚡ SYSTEM ENGINEER PROFILE
 
 ```diff
-+ System Thinker
-+ Scalable Architecture Focus
-+ Full-Stack Development (MERN)
-+ Performance Optimization Mindset
++ Think in systems, not features
++ Build for scale, not just functionality
++ Prioritize performance & simplicity
++ Write code that survives growth
 ````
 
 ---
 
-# 📊 LIVE STATS
+# 🧠 ARCHITECTURE MINDSET
+
+```txt
+User → Frontend → API Layer → Services → Database → Scaling Layer
+
+• Frontend: React + Tailwind (fast UI, clean state)
+• Backend: Node.js (modular, scalable)
+• Database: MongoDB (flexible data modeling)
+• System Goal: Low latency + high reliability
+```
+
+---
+
+# 📊 ENGINEERING SIGNALS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" width="48%" />
@@ -35,72 +48,88 @@
 
 ---
 
-# 🧠 SYSTEM FLOW
+# 🏆 ACHIEVEMENT MATRIX
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=furoyal7&theme=matrix&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+# 💎 CORE STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,nodejs,express,mongodb,python,cpp,git,github&perline=6" />
+</p>
+
+---
+
+# ⚙️ SYSTEM FLOW (REAL ENGINEERING VIEW)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
-  ⟶
+  ➜
   <img src="https://skillicons.dev/icons?i=nodejs" />
-  ⟶
+  ➜
   <img src="https://skillicons.dev/icons?i=mongodb" />
+  ➜
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 <p align="center">
-Frontend → API → Database → Scalable System
-</p>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furoyal7&theme=matrix&no-frame=true&margin-w=12&row=1"/>
-</p>
-
----
-
-# 💎 TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,python,cpp,git,github,vscode,figma&perline=7" />
+UI → Logic → Data → Infrastructure
 </p>
 
 ---
 
 # 🧩 ENGINEERING ROADMAP
 
-```
-2023 ───────── Frontend Foundations
-       ✔ HTML / CSS / JavaScript
+```txt
+2023 ───────── Foundations
+       ✔ HTML / CSS / JS
        ✔ React
 
-2024 ───────── Full Stack Systems
+2024 ───────── Full Stack
        ✔ Node.js / Express
        ✔ MongoDB
        ✔ REST APIs
 
-2025 ───────── Advanced Engineering
+2025 ───────── System Level
        ◉ System Design
-       ◉ Scalable Architecture
        ◉ Performance Optimization
+       ◉ Distributed Thinking
        ◉ Cloud & DevOps
 ```
 
 ---
 
-# 🎮 MINI GAME
+# 🧠 ENGINEERING PRINCIPLES
+
+```js
+const principles = [
+  "Simplicity beats complexity",
+  "Scale is designed, not added",
+  "Performance is a feature",
+  "Code should be predictable",
+  "Systems > components"
+];
+```
+
+---
+
+# 🎮 INTERACTIVE ELEMENT
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="320"/>
 </p>
 
 <p align="center">
-🕹️ You are inside my system — explore my repositories like levels.
+🕹️ Enter the system → explore repositories → unlock architecture
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 CONTRIBUTION SYSTEM MAP
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/furoyal7/furoyal7/output/github-contribution-grid-snake-dark.svg" />
@@ -108,14 +137,15 @@ Frontend → API → Database → Scalable System
 
 ---
 
-# ⚡ DEVELOPER OBJECT
+# ⚡ ENGINEER OBJECT
 
 ```js
 const fuad = {
   role: "Full-Stack Engineer",
-  focus: ["Scalable Systems", "Clean Architecture"],
-  tech: ["MERN", "Python", "C++"],
-  mindset: "Build → Optimize → Scale"
+  builds: "Scalable Web Systems",
+  strengths: ["Architecture", "Performance", "Clean Code"],
+  stack: ["MERN", "Python", "C++"],
+  philosophy: "Design → Build → Optimize → Scale"
 };
 ```
 
@@ -125,13 +155,13 @@ const fuad = {
 
 <p align="center">
   <a href="https://github.com/furoyal7">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-⚡ Great engineers don’t just write code — they design systems.
+⚡ Engineers who think in systems build the future.
 </p>
 ```
