@@ -1,23 +1,59 @@
-## 🏆 Achievements & Recognition
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=9AE6FF&center=true&vCenter=true&width=400&lines=Achievements" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b0b0b,100:111111&text=FUAD%20KEDIR&fontSize=44&fontColor=9AE6FF&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20•%20Scalable%20Architecture%20•%20Performance&descAlignY=60"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/BUILT%20PRODUCTION%20SYSTEMS-0b0b0b?style=for-the-badge&logo=vercel&logoColor=9AE6FF&labelColor=0b0b0b&color=111111" />
-<img src="https://img.shields.io/badge/DEPLOYED%20FULLSTACK%20APPS-0b0b0b?style=for-the-badge&logo=github&logoColor=9AE6FF&labelColor=0b0b0b&color=111111" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SCALABLE%20ARCHITECTURE-0b0b0b?style=for-the-badge&logo=react&logoColor=9AE6FF" />
-<img src="https://img.shields.io/badge/API%20SYSTEM%20DESIGN-0b0b0b?style=for-the-badge&logo=node.js&logoColor=9AE6FF" />
-<img src="https://img.shields.io/badge/PERFORMANCE%20OPTIMIZATION-0b0b0b?style=for-the-badge&logo=googlechrome&logoColor=9AE6FF" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OPEN%20SOURCE%20CONTRIBUTOR-0b0b0b?style=for-the-badge&logo=github&logoColor=9AE6FF" />
-<img src="https://img.shields.io/badge/CONSISTENT%20ENGINEERING-0b0b0b?style=for-the-badge&logo=git&logoColor=9AE6FF" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3500&pause=1200&color=9AE6FF&center=true&vCenter=true&width=650&lines=Designing+Systems+That+Scale;Engineering+for+Performance+and+Reliability;Turning+Complex+Problems+into+Structured+Systems"/>
 </p>
+
+---
+
+## ⚙️ What I Do
+
+I design and build systems that scale, remain maintainable, and perform under real-world constraints.
+
+I optimize for:
+- clarity of architecture  
+- predictable system behavior  
+- performance under load  
+- long-term maintainability  
+
+---
+
+## 🧠 Engineering Approach
+
+- Systems over features  
+- Architecture over shortcuts  
+- Simplicity over complexity  
+- Performance as a requirement  
+
+---
+
+# 🧩 SYSTEM ARCHITECTURE
+
+```text
+        ┌───────────────┐
+        │   CLIENT UI   │
+        │ React System  │
+        └──────┬────────┘
+               │
+       State + Logic Layer
+               │
+        ┌──────▼────────┐
+        │   API LAYER   │
+        │ Node / Express│
+        └──────┬────────┘
+               │
+     Validation • Auth • Routing
+               │
+        ┌──────▼────────┐
+        │  DATA LAYER   │
+        │   MongoDB     │
+        └───────────────┘
+
+   Optimization Strategy:
+   - Controlled state flow
+   - Minimized API calls
+   - Structured data handling
