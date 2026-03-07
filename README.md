@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0a0a0a,100:111111&text=FUAD%20KEDIR&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,50:0f0f0f,100:111111&text=FUAD%20KEDIR&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -9,34 +9,34 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;React+%7C+Next.js;Python+%7C+C%2B%2B;Build+→+Optimize+→+Scale"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;React+Next.js+Developer;Python+%7C+C%2B%2B;Design+→+Build+→+Optimize+→+Scale"/>
 </p>
 
 ---
 
 # 👨‍💻 Fuad Kedir
 
-Software Engineer passionate about building **modern scalable applications and clean system architectures**.
+Software Engineer focused on **building intelligent, scalable, and high-performance systems**.
 
-I enjoy creating **high-performance web systems** using modern technologies like **React, Next.js, Python, and C++** while focusing on **simplicity, reliability, and scalability**.
+I work with modern technologies like **React, Next.js, Python, and C++** to build applications that are **efficient, maintainable, and future-ready**.
 
 ---
 
-# ⚡ Engineering Mindset
+# 🧠 AI ENGINEERING MINDSET
 
 ```diff
-+ Think in systems, not features
-+ Write scalable and maintainable code
-+ Focus on performance
-+ Build systems that grow
++ Think in systems not features
++ Design before scaling
++ Performance is part of architecture
++ Clean code enables long-term innovation
 ```
 
 ---
 
-# 🧠 System Architecture
+# 🧠 SYSTEM ARCHITECTURE THINKING
 
 ```
-User → Frontend → API → Services → Database → Cloud
+User → Frontend → API Layer → Services → Database → Cloud
 ```
 
 Frontend
@@ -48,15 +48,12 @@ Node.js APIs
 Languages
 Python • C++
 
-Database
-MongoDB / SQL
-
 Goal
-Scalable and high-performance systems
+Scalable distributed systems
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ TECHNOLOGY STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,python,cpp,git,github,docker&perline=6"/>
@@ -64,15 +61,31 @@ Scalable and high-performance systems
 
 ---
 
-# 🧠 AI / Neural Network Inspiration
+# 🧠 AI NEURAL NETWORK GRAPH
 
 <p align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="520"/>
+</p>
+
+<p align="center">
+Inspired by neural networks, intelligent systems, and distributed architectures
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 🧠 AI SYSTEM VISUALIZATION
+
+<p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*9GO6dK8nF6Rk9QmC0O6mUw.gif" width="520"/>
+</p>
+
+<p align="center">
+Data → Learning → Intelligence → Decision
+</p>
+
+---
+
+# 📊 GITHUB PERFORMANCE
 
 <p align="center">
 
@@ -88,7 +101,7 @@ Scalable and high-performance systems
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 ENGINEERING ACHIEVEMENTS
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=furoyal7&theme=matrix&no-frame=true&margin-w=10&row=1"/>
@@ -96,7 +109,19 @@ Scalable and high-performance systems
 
 ---
 
-# ⚙ Full Stack Flow
+# 📊 3D DEVELOPER SKILL RADAR
+
+<p align="center">
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['React','Next.js','Node.js','Python','C++','System Design'],datasets:[{label:'Skills',data:[85,80,75,78,70,72]}]}}" width="420"/>
+</p>
+
+<p align="center">
+Core engineering capabilities visualization
+</p>
+
+---
+
+# ⚙ FULL STACK SYSTEM FLOW
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react"/> ➜
@@ -111,7 +136,7 @@ UI → Logic → Data → Infrastructure
 
 ---
 
-# 🧩 Engineering Roadmap
+# 🧩 ENGINEERING ROADMAP
 
 ```
 Foundations
@@ -133,7 +158,7 @@ Advanced
 
 ---
 
-# 🧠 Engineering Principles
+# 🧠 ENGINEERING PRINCIPLES
 
 ```javascript
 const principles = [
@@ -147,7 +172,15 @@ const principles = [
 
 ---
 
-# ⚡ Developer Object
+# 🧬 CONTRIBUTION ACTIVITY
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/furoyal7/furoyal7/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# ⚡ DEVELOPER PROFILE OBJECT
 
 ```javascript
 const fuad = {
@@ -162,7 +195,7 @@ const fuad = {
 
 ---
 
-# 🌐 Connect
+# 🌐 CONNECT
 
 <p align="center">
 <a href="https://github.com/furoyal7">
@@ -173,5 +206,5 @@ const fuad = {
 ---
 
 <p align="center">
-⚡ Engineers who think in systems build the future
+⚡ Building intelligent systems through clean engineering
 </p>
