@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:0a0a0a,100:111111&text=FUAD%20KEDIR&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:0a0a0a,100:111111&text=FUAD%20KEDIR&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Engineer&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -9,31 +9,43 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Engineer;System+Design+Enthusiast;Build+→+Optimize+→+Scale"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Build+Systems+Not+Features;Full+Stack+Engineer;AI+%2F+ML+Builder;Scalable+System+Thinker;Optimize+→+Scale+→+Automate"/>
 </p>
 
 ---
 
 # 👨‍💻 Fuad Kedir
 
-🚀 Software Engineer passionate about building **scalable systems, intelligent applications, and production-ready software**.
+🚀 Software Engineer focused on **building scalable systems, intelligent applications, and production-ready software**.
 
-💼 **Open to internships and junior software engineering roles**
+💡 I design and build **end-to-end systems** — from frontend interfaces to backend APIs and AI-powered features.
+
+💼 **Open to internships & junior software engineering roles (remote or on-site)**
+
+---
+
+# ⚡ What I Bring
+
+✔ Build full-stack applications with real-world architecture  
+✔ Integrate AI/ML into production-ready systems  
+✔ Focus on performance, scalability, and clean code  
+✔ Strong foundation in system design thinking  
 
 ---
 
 # 🧠 Engineering Mindset
 
 ```diff
-+ Build systems, not just features
-+ Design before scaling
-+ Performance is a requirement, not an option
-+ Clean code enables long-term growth
++ Systems over features
++ Design before scale
++ Performance is a requirement
++ Clean code = scalability
++ Think long-term
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,python,cpp,docker,git,github,aws&perline=6"/>
@@ -41,73 +53,75 @@
 
 ---
 
-# 🤖 AI / Machine Learning
+# 🚀 Featured Projects
 
-### 🔹 Focus Areas
-- Machine Learning fundamentals
-- Deep Learning (basics)
-- Data analysis & visualization
-- Model optimization
+## 🔹 Full Stack Production App
+**Tech:** React • Node.js • MongoDB  
 
-### 🔹 Tools & Libraries
-- NumPy • Pandas • Matplotlib  
-- Scikit-learn  
-- TensorFlow / PyTorch (basic)
+- Designed scalable REST API architecture  
+- Implemented authentication & secure routing  
+- Built responsive frontend with optimized state management  
+- Structured backend for maintainability and growth  
 
-### 🔹 What I Build
-- Data-driven applications  
-- Predictive models  
-- Intelligent backend systems  
-- AI-powered web features  
+👉 *Add your repo link here*
 
 ---
 
-# 📊 Data Skills
+## 🔹 AI-Powered Web Application
+**Tech:** Python • ML • Web Integration  
 
-```text
-Data Cleaning → Analysis → Visualization → Insights → Decision Making
+- Integrated machine learning model into web system  
+- Real-time predictions with user-facing UI  
+- Data preprocessing and feature engineering pipeline  
+- Optimized model performance for efficiency  
+
+👉 *Add your repo link here*
+
+---
+
+## 🔹 Data Analysis & Insights Project
+**Tech:** Python • Pandas • Matplotlib  
+
+- Cleaned and transformed raw datasets  
+- Performed exploratory data analysis (EDA)  
+- Built visualizations for decision-making  
+- Extracted actionable insights from data  
+
+👉 *Add your repo link here*
+
+---
+
+# 🏗 System Design Approach
+
+```
+Client → Frontend → API → Services → Database → Cloud
 ```
 
-- Data preprocessing & feature engineering  
-- Exploratory Data Analysis (EDA)  
-- Dashboard-style visualizations  
-- Efficient data pipelines  
+- Modular backend architecture  
+- Separation of concerns  
+- Scalable API design  
+- Performance-focused data flow  
 
 ---
 
-# 🏗 System Architecture
+# 🤖 AI / ML Engineering
 
+```python
+Focus = [
+  "Machine Learning",
+  "Data Analysis",
+  "Model Optimization",
+  "AI Integration in Applications"
+]
 ```
-User → Frontend → API → Services → Database → Cloud
-```
 
-- Frontend: React / Next.js  
-- Backend: Node.js (REST APIs)  
-- Database: MongoDB  
-- Focus: Scalable & distributed systems  
+- Building intelligent, data-driven systems  
+- Applying ML models to real-world problems  
+- Bridging backend systems with AI  
 
 ---
 
-# 🔥 Featured Projects
-
-### 🚀 Full Stack Web Application
-- Built with React, Node.js, MongoDB  
-- Authentication & REST API design  
-- Scalable backend architecture  
-
-### 🤖 AI-Powered Application
-- Integrated ML model into a web system  
-- Real-time predictions with UI visualization  
-
-### 📊 Data Analysis Project
-- Data cleaning, analysis, and insights  
-- Visualization using Python (Pandas, Matplotlib)  
-
-👉 Replace with your actual GitHub project links
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Performance
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" width="48%"/>
@@ -120,30 +134,14 @@ User → Frontend → API → Services → Database → Cloud
 
 ---
 
-# 🧩 Engineering Roadmap
+# 🧩 Current Focus
 
 ```text
-✔ Frontend Development (React / Next.js)
-✔ Backend Development (APIs / Databases)
-✔ Full Stack Projects
-◉ System Design
+◉ Advanced System Design
 ◉ Performance Optimization
-◉ Cloud & Distributed Systems
-◉ AI Engineering
-```
-
----
-
-# 🧠 Engineering Principles
-
-```javascript
-const principles = [
-  "Simplicity over complexity",
-  "Performance is a feature",
-  "Write clean, scalable code",
-  "Design before scaling",
-  "Think in systems"
-];
+◉ Scalable Distributed Systems
+◉ AI Engineering (Real-world applications)
+◉ Cloud & Deployment
 ```
 
 ---
@@ -152,14 +150,12 @@ const principles = [
 
 ```javascript
 const fuad = {
-  name: "Fuad Kedir",
   role: "Software Engineer",
-  focus: ["Full Stack", "AI Engineering"],
+  specialization: ["Full Stack", "AI Engineering"],
   stack: ["React","Next.js","Node.js","Python","C++"],
-  dataSkills: ["Analysis","Visualization","ML Basics"],
-  interests: ["System Design","Scalable Systems","AI"],
-  availability: "Open to internships",
-  philosophy: "Build → Optimize → Scale"
+  mindset: "Systems thinker",
+  focus: "Scalable & intelligent systems",
+  availability: "Open to opportunities"
 };
 ```
 
@@ -175,6 +171,12 @@ const fuad = {
 
 ---
 
+# ⚡ Philosophy
+
+```text
+Build → Optimize → Scale → Automate
+```
+
 <p align="center">
-⚡ Building scalable systems • Integrating AI • Engineering the future
+Engineering systems that last, not just code that works.
 </p>
