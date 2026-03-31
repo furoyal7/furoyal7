@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0a0a0a,100:111111&text=FUAD%20KEDIR&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20•%20AI%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:0a0a0a,100:111111&text=FUAD%20KEDIR&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -9,31 +9,31 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Engineer;System+Design+Thinker;Build+→+Optimize+→+Scale"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Engineer;System+Design+Enthusiast;Build+→+Optimize+→+Scale"/>
 </p>
 
 ---
 
 # 👨‍💻 Fuad Kedir
 
-🚀 Software Engineer focused on **building scalable systems, intelligent applications, and production-ready software**.
+🚀 Software Engineer passionate about building **scalable systems, intelligent applications, and production-ready software**.
 
-💼 **Open to internships & junior software engineering roles**
+💼 **Open to internships and junior software engineering roles**
 
 ---
 
-# 🧠 CORE ENGINEERING MINDSET
+# 🧠 Engineering Mindset
 
 ```diff
-+ Systems over features
-+ Design before scale
-+ Performance is a requirement
-+ Clean code = long-term scalability
++ Build systems, not just features
++ Design before scaling
++ Performance is a requirement, not an option
++ Clean code enables long-term growth
 ```
 
 ---
 
-# ⚡ TECH STACK
+# ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,python,cpp,docker,git,github,aws&perline=6"/>
@@ -41,91 +41,73 @@
 
 ---
 
-# 🤖 AI / ML ENGINEERING
+# 🤖 AI / Machine Learning
 
-```python
-# Focus Areas
-Machine Learning
-Deep Learning (Foundations)
-Data Analysis & Visualization
-Model Optimization
-```
+### 🔹 Focus Areas
+- Machine Learning fundamentals
+- Deep Learning (basics)
+- Data analysis & visualization
+- Model optimization
 
 ### 🔹 Tools & Libraries
-
-* NumPy • Pandas • Matplotlib
-* Scikit-learn (ML models)
-* Basic TensorFlow / PyTorch
+- NumPy • Pandas • Matplotlib  
+- Scikit-learn  
+- TensorFlow / PyTorch (basic)
 
 ### 🔹 What I Build
-
-* Data-driven applications
-* Predictive models
-* Intelligent backend systems
-* AI-powered features in web apps
+- Data-driven applications  
+- Predictive models  
+- Intelligent backend systems  
+- AI-powered web features  
 
 ---
 
-# 📊 DATA SKILLS
+# 📊 Data Skills
 
 ```text
-Data Cleaning → Data Analysis → Visualization → Insights → Decision Making
+Data Cleaning → Analysis → Visualization → Insights → Decision Making
 ```
 
-* Data preprocessing & feature engineering
-* Exploratory Data Analysis (EDA)
-* Dashboard-style visualization
-* Performance-focused data pipelines
+- Data preprocessing & feature engineering  
+- Exploratory Data Analysis (EDA)  
+- Dashboard-style visualizations  
+- Efficient data pipelines  
 
 ---
 
-# 🏗 SYSTEM ARCHITECTURE
+# 🏗 System Architecture
 
 ```
 User → Frontend → API → Services → Database → Cloud
 ```
 
-* Frontend: React • Next.js
-* Backend: Node.js APIs
-* Database: MongoDB
-* Goal: Distributed scalable systems
+- Frontend: React / Next.js  
+- Backend: Node.js (REST APIs)  
+- Database: MongoDB  
+- Focus: Scalable & distributed systems  
 
 ---
 
-# 🔥 FEATURED PROJECTS
+# 🔥 Featured Projects
 
-### 🚀 Full Stack Web App
+### 🚀 Full Stack Web Application
+- Built with React, Node.js, MongoDB  
+- Authentication & REST API design  
+- Scalable backend architecture  
 
-* Built with React, Node.js, MongoDB
-* Authentication, API design, scalable backend
-
-### 🤖 AI-Powered App
-
-* Integrates ML model into web system
-* Real-time predictions + UI visualization
+### 🤖 AI-Powered Application
+- Integrated ML model into a web system  
+- Real-time predictions with UI visualization  
 
 ### 📊 Data Analysis Project
+- Data cleaning, analysis, and insights  
+- Visualization using Python (Pandas, Matplotlib)  
 
-* Data cleaning, visualization, insights
-* Python (Pandas, Matplotlib)
-
-👉 *(Replace with your real GitHub repo links)*
-
----
-
-# 🎬 PROJECT SHOWCASE
-
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
-Building • Testing • Scaling • Deploying
-</p>
+👉 Replace with your actual GitHub project links
 
 ---
 
-# 📊 GITHUB PERFORMANCE
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" width="48%"/>
@@ -138,11 +120,11 @@ Building • Testing • Scaling • Deploying
 
 ---
 
-# 🧩 ENGINEERING ROADMAP
+# 🧩 Engineering Roadmap
 
 ```text
-✔ Frontend → React / Next.js
-✔ Backend → APIs / Databases
+✔ Frontend Development (React / Next.js)
+✔ Backend Development (APIs / Databases)
 ✔ Full Stack Projects
 ◉ System Design
 ◉ Performance Optimization
@@ -152,21 +134,21 @@ Building • Testing • Scaling • Deploying
 
 ---
 
-# 🧠 ENGINEERING PRINCIPLES
+# 🧠 Engineering Principles
 
 ```javascript
 const principles = [
   "Simplicity over complexity",
   "Performance is a feature",
   "Write clean, scalable code",
-  "Design first, scale later",
+  "Design before scaling",
   "Think in systems"
 ];
 ```
 
 ---
 
-# ⚙ DEVELOPER PROFILE
+# ⚙ Developer Profile
 
 ```javascript
 const fuad = {
@@ -183,15 +165,7 @@ const fuad = {
 
 ---
 
-# 🧬 CONTRIBUTIONS
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/furoyal7/furoyal7/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🌐 CONNECT
+# 🌐 Connect
 
 <p align="center">
 <a href="https://github.com/furoyal7">
