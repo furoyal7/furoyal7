@@ -25,10 +25,10 @@ Passionate about designing and building **scalable, intelligent, and production-
 
 ### ⚡ What I Bring
 
-- End-to-end full-stack development with modern architecture
-- AI/ML integration into real-world production systems
-- Strong emphasis on performance, scalability, and clean code
-- System design thinking and long-term software engineering practices
+- End-to-end full-stack development with modern architecture  
+- AI/ML integration into real-world production systems  
+- Strong emphasis on performance, scalability, and clean code  
+- System design thinking and long-term software engineering practices  
 
 ---
 
@@ -66,3 +66,5 @@ Passionate about designing and building **scalable, intelligent, and production-
   Always optimizing → scaling → automating
 
   Building systems that matter.
+
+```
