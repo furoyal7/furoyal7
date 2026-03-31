@@ -13,23 +13,91 @@
 
 ---
 
-# 👨‍💻 Fuad Kedir
+# 👨‍💻 Fuad Kedir  
 
 **Software Engineer | Full Stack Developer | AI Engineer**
 
-🚀 I build **scalable systems, intelligent applications, and production-ready software**.  
-💡 Focused on **end-to-end architecture** — from intuitive frontend to robust backend and AI-powered features.  
-💼 **Open to internships & junior software engineering roles** (remote or on-site).
+🚀 I build **scalable systems, intelligent applications, and production-ready software**  
+💡 Focused on **end-to-end architecture** — from intuitive frontend to robust backend and AI-powered features  
+💼 **Open to internships & junior software engineering roles** (remote or on-site)
 
 ---
 
-### ⚡ What I Bring
+## ⚡ What I Bring
 
 - Full-stack development with modern, scalable architecture  
-- AI/ML integration into real-world production systems  
+- AI/ML integration into real-world systems  
 - Performance-first engineering mindset  
-- Clean, maintainable, and scalable code  
+- Clean, maintainable, production-ready code  
 - Strong system design thinking  
 
 ---
 
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,mongodb,postgresql,docker,git,linux&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furoyal7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00f7ff&icon_color=00f7ff"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furoyal7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00f7ff"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=furoyal7&theme=tokyonight&hide_border=true&background=00000000&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furoyal7&theme=tokyo-night&bg_color=00000000&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+## 🏗️ Current Focus
+
+- Building scalable full-stack applications  
+- Integrating AI into real-world products  
+- Improving system performance & architecture  
+- Contributing to impactful open-source projects  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/furoyal7">
+    <img src="https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <!-- Add LinkedIn or Portfolio below -->
+  <!--
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  -->
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> *"Build systems that scale. Write code that lasts. Solve problems that matter."*
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0a0a0a&height=120&section=footer"/>
+</p>
