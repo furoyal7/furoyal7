@@ -17,18 +17,19 @@
 
 **Software Engineer | Full Stack Developer | AI Engineer**
 
-Passionate about designing and building **scalable, intelligent, and production-ready** applications. I focus on creating end-to-end systems that are performant, maintainable, and built with long-term thinking.
-
-🚀 **Open to internships and junior Software Engineering roles** (remote or on-site).
+🚀 I build **scalable systems, intelligent applications, and production-ready software**.  
+💡 Focused on **end-to-end architecture** — from intuitive frontend to robust backend and AI-powered features.  
+💼 **Open to internships & junior software engineering roles** (remote or on-site).
 
 ---
 
 ### ⚡ What I Bring
 
-- End-to-end full-stack development with modern architecture  
+- Full-stack development with modern, scalable architecture  
 - AI/ML integration into real-world production systems  
-- Strong emphasis on performance, scalability, and clean code  
-- System design thinking and long-term software engineering practices  
+- Performance-first engineering mindset  
+- Clean, maintainable, and scalable code  
+- Strong system design thinking  
 
 ---
 
@@ -38,15 +39,57 @@ Passionate about designing and building **scalable, intelligent, and production-
 + Systems over features
 + Architecture before implementation
 + Performance is not optional
-+ Clean, readable, and scalable code
-+ Think long-term, build for the future
++ Clean code = scalability
++ Think long-term
 
 🛠 Tech Stack
 
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,express,mongodb,python,cpp,docker,git,github,aws,vercel,postgres&#x26;perline=8" alt="Tech Stack">
 
 
-🔗 Connect With Me
+🚀 Featured Projects
+🔹 Full Stack Application
+Scalable web app built with React, Next.js, Node.js & MongoDB. Includes RESTful APIs, authentication, and clean architecture.
+🔹 AI-Powered System
+Integrated machine learning models into a web application for real-time predictions with intuitive user interface.
+🔹 Data Analysis Project
+Data cleaning, transformation, visualization, and insight extraction using Python, Pandas, and Matplotlib.
+(Replace above descriptions with your actual projects and add GitHub repository links)
+
+📊 GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=furoyal7&#x26;show_icons=true&#x26;theme=transparent&#x26;hide_border=true&#x26;title_color=00F7FF&#x26;icon_color=00F7FF&#x26;text_color=ffffff" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furoyal7&#x26;theme=transparent&#x26;hide_border=true&#x26;ring=00F7FF&#x26;fire=00F7FF" width="48%" alt="Streak Stats">
+
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furoyal7&#x26;theme=react-dark&#x26;hide_border=true&#x26;color=00F7FF&#x26;line=00F7FF&#x26;point=ffffff" alt="Activity Graph">
+
+
+🤖 AI / ML Focus
+Pythonfocus = [
+  "Machine Learning Integration",
+  "Data Processing & Analysis",
+  "Model Optimization",
+  "AI-powered Features"
+]
+
+🧩 Current Focus
+text◉ Advanced System Design
+◉ Performance Optimization
+◉ Scalable Distributed Systems
+◉ AI Engineering
+◉ Cloud Deployment (AWS, Docker)
+
+⚙ Developer Profile
+JavaScriptconst fuad = {
+  role: "Software Engineer",
+  specialization: ["Full Stack", "AI/ML"],
+  mindset: "Systems thinker",
+  focus: "Build scalable & intelligent systems",
+  availability: "Open to opportunities"
+};
+
+🌐 Connect With Me
 
   
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
@@ -63,8 +106,8 @@ Passionate about designing and building **scalable, intelligent, and production-
 
 
 
-  Always optimizing → scaling → automating
+  Build → Optimize → Scale → Automate
 
-  Building systems that matter.
+  Engineering systems that last, not just code that works.
 
 ```
