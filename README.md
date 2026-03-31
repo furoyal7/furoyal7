@@ -40,3 +40,29 @@ Passionate about designing and building **scalable, intelligent, and production-
 + Performance is not optional
 + Clean, readable, and scalable code
 + Think long-term, build for the future
+
+🛠 Tech Stack
+
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,express,mongodb,python,cpp,docker,git,github,aws,vercel,postgres&#x26;perline=8" alt="Tech Stack">
+
+
+🔗 Connect With Me
+
+  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
+  
+  
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&#x26;logo=x&#x26;logoColor=white" alt="X (Twitter)">
+  
+  
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
+  
+  
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
+  
+
+
+
+  Always optimizing → scaling → automating
+
+  Building systems that matter.
