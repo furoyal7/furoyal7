@@ -55,9 +55,7 @@
   <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
 </p>## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,mongodb,postgresql,docker,git,linux&theme=dark" />
-</p>
+
 
 ---
 
