@@ -53,9 +53,6 @@
 ### 🛠️ DevOps & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
-</p>## 🧠 Tech Stack
-
-
 
 ---
 
