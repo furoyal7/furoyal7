@@ -33,7 +33,27 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack  
+
+### 🖥️ Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark" />
+</p>
+
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=dark" />
+</p>
+
+### 🗄️ Database  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" />
+</p>
+
+### 🛠️ DevOps & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
+</p>## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,mongodb,postgresql,docker,git,linux&theme=dark" />
