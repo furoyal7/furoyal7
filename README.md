@@ -17,19 +17,58 @@
 
 **Software Engineer | Full Stack Developer | AI Engineer**
 
-🚀 I build **scalable systems, intelligent applications, and production-ready software**  
-💡 Focused on **end-to-end architecture** — from frontend to backend and AI  
+🚀 I build **scalable, production-ready systems** with real-world impact  
+💡 Focused on **end-to-end architecture (Frontend → Backend → Database → Deployment)**  
 💼 Open to **internships & junior software engineering roles**
+
+---
+
+# 🚀 🔥 Selected Work (Live Projects)
+
+## 💼 Merchant Expense & Debt Tracker (Production System)
+🔗 **Live App:** https://tracker-kohl-seven.vercel.app/
+
+A **full-stack financial management system** built for merchants to track:
+- Expenses & sales  
+- Customer debts  
+- Profit & analytics  
+
+### ⚡ Key Features
+- Real-time financial tracking  
+- Secure JWT authentication system  
+- PostgreSQL + Prisma for data integrity  
+- Advanced analytics (charts & insights)  
+- Fully deployed (Frontend + Backend + DB)
+
+### 🛠️ Tech Stack
+Next.js • Node.js • Express • PostgreSQL • Prisma • Tailwind • Recharts • Render • Vercel
+
+---
+
+## 🛒 E-Commerce Platform (Full Stack System)
+🔗 **Live App:** https://e-commerce-six-rosy-97.vercel.app
+
+A **modern e-commerce system** with scalable architecture and production deployment.
+
+### ⚡ Key Features
+- Product listing & management  
+- API-driven architecture  
+- Secure backend integration  
+- Responsive UI (mobile-ready)  
+- Environment-based configuration (production-ready)
+
+### 🛠️ Tech Stack
+Next.js • Node.js • Express • PostgreSQL • REST API • Tailwind • Vercel • Render
 
 ---
 
 ## ⚡ What I Bring
 
-- Full-stack development with scalable architecture  
-- AI/ML integration into real-world systems  
-- Performance-first engineering mindset  
-- Clean, maintainable, production-ready code  
-- Strong system design thinking  
+- 🧠 Strong system design & architecture thinking  
+- ⚙️ Full-stack development (frontend → backend → DB → deployment)  
+- 🤖 AI integration into real-world applications  
+- 🚀 Performance optimization mindset  
+- 🔐 Production-level security practices  
 
 ---
 
@@ -86,10 +125,10 @@
 
 ## 🏗️ Current Focus
 
-- Building scalable full-stack applications  
-- Integrating AI into real-world products  
-- Improving system performance & architecture  
-- Contributing to impactful open-source projects  
+- Building scalable SaaS-level applications  
+- AI-powered business tools  
+- System performance & optimization  
+- Real-world production deployments  
 
 ---
 
@@ -105,7 +144,7 @@
 
 ## ⚡ Philosophy
 
-> *"Build systems that scale. Write code that lasts. Solve problems that matter."*
+> *"Build systems that scale. Write code that lasts. Solve real-world problems."*
 
 ---
 
