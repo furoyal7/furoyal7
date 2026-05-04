@@ -17,55 +17,114 @@
 
 **Software Engineer | Full Stack Developer | AI Engineer**
 
-🚀 I build **scalable, production-ready systems** with real-world impact  
+🚀 I build **scalable, production-ready systems**  
 💡 Focused on **end-to-end architecture (Frontend → Backend → Database → Deployment)**  
 💼 Open to **internships & junior software engineering roles**
 
 ---
 
-# 🚀 🔥 Selected Work (Live Projects)
+# 🚀 Featured Projects
 
-## 💼 Merchant Expense & Debt Tracker (Production System)
-🔗 **Live App:** https://tracker-kohl-seven.vercel.app/
+<table>
+<tr>
 
-A **full-stack financial management system** built for merchants to track:
-- Expenses & sales  
-- Customer debts  
-- Profit & analytics  
+<td width="50%">
 
-### ⚡ Key Features
-- Real-time financial tracking  
-- Secure JWT authentication system  
-- PostgreSQL + Prisma for data integrity  
-- Advanced analytics (charts & insights)  
-- Fully deployed (Frontend + Backend + DB)
+### 🛒 E-Commerce Platform  
+Full-stack modern online shopping system with scalable backend and responsive UI.  
 
-### 🛠️ Tech Stack
-Next.js • Node.js • Express • PostgreSQL • Prisma • Tailwind • Recharts • Render • Vercel
+🔗 https://e-commerce-six-rosy-97.vercel.app  
+
+**Tech:** Next.js • Node.js • PostgreSQL • Tailwind • REST API  
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Automation System  
+Backend automation tools for workflow optimization and intelligent processing.  
+
+**Tech:** Python • Node.js • AI Logic • API Integration  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ☁️ Cloud SaaS Dashboard  
+Secure analytics dashboard with real-time monitoring and insights.  
+
+**Tech:** Next.js • Zustand • Charts • API  
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Developer API Platform  
+REST API service with authentication, logging, and performance optimization.  
+
+**Tech:** Express • JWT • Rate Limit • Logging  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🛒 E-Commerce Platform (Full Stack System)
-🔗 **Live App:** https://e-commerce-six-rosy-97.vercel.app
+# 💼 Professional Projects & Completed Work
 
-A **modern e-commerce system** with scalable architecture and production deployment.
+<table>
+<tr>
 
-### ⚡ Key Features
-- Product listing & management  
-- API-driven architecture  
-- Secure backend integration  
-- Responsive UI (mobile-ready)  
-- Environment-based configuration (production-ready)
+<td width="33%">
 
-### 🛠️ Tech Stack
-Next.js • Node.js • Express • PostgreSQL • REST API • Tailwind • Vercel • Render
+### 💼 Merchant Expense & Debt Tracker  
+Production-level financial management system for merchants.  
+
+🔗 https://tracker-kohl-seven.vercel.app/  
+
+✔ Expense & sales tracking  
+✔ Debt management system  
+✔ Analytics dashboard  
+✔ Secure authentication  
+
+</td>
+
+<td width="33%">
+
+### 🌍 Humanitarian Website  
+Website for a humanitarian association supporting community initiatives.  
+
+✔ Informational platform  
+✔ Clean UI/UX  
+✔ Community-focused design  
+
+</td>
+
+<td width="33%">
+
+### 🏨 Hotel & Booking System  
+Modern hotel system with elegant UI and service presentation.  
+
+✔ Booking interface  
+✔ Service showcase  
+✔ Responsive design  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## ⚡ What I Bring
 
-- 🧠 Strong system design & architecture thinking  
-- ⚙️ Full-stack development (frontend → backend → DB → deployment)  
+- 🧠 Strong system design & architecture  
+- ⚙️ Full-stack development (Frontend → Backend → DB → Deployment)  
 - 🤖 AI integration into real-world applications  
 - 🚀 Performance optimization mindset  
 - 🔐 Production-level security practices  
@@ -126,8 +185,8 @@ Next.js • Node.js • Express • PostgreSQL • REST API • Tailwind • Ver
 ## 🏗️ Current Focus
 
 - Building scalable SaaS-level applications  
-- AI-powered business tools  
-- System performance & optimization  
+- AI-powered business systems  
+- Performance & architecture optimization  
 - Real-world production deployments  
 
 ---
